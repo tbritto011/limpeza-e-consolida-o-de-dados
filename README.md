@@ -18,7 +18,7 @@ O objetivo foi criar um processo automatizado (ETL) que limpa, converte moedas e
 - **Conversão Cambial:** Automatização da conversão de USD para BRL.
 - **Engenharia de Atributos:** Criação de métricas como Preço por m² e Categoria de Investimento.
 - **Agregação:** Cálculo de médias regionais para auditoria de preços.
-- **Exportação Multiaha:** Geração de arquivo `.xlsx` com abas separadas para análise gerencial.
+- **Exportação Multiaba:** Geração de arquivo `.xlsx` com abas separadas para análise gerencial.
 
 ## 📊 Exemplo de Resultado
 O script transforma descrições como `Apartamento | Centro | $ 100,000` em dados estruturados prontos para Dashboards de BI.
