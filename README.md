@@ -22,3 +22,7 @@ O objetivo foi criar um processo automatizado (ETL) que limpa, converte moedas e
 
 ## 📊 Exemplo de Resultado
 O script transforma descrições como `Apartamento | Centro | $ 100,000` em dados estruturados prontos para Dashboards de BI.
+
+[limpeza_imobiliaria_py.py](https://github.com/user-attachments/files/25583237/limpeza_imobiliaria_py.py)
+
+[Entrega_Imobiliaria_Final.xlsx](https://github.com/user-attachments/files/25583277/Entrega_Imobiliaria_Final.xlsx)
